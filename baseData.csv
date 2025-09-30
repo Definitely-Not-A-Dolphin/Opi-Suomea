@@ -1,3 +1,9 @@
 01sayHello1;Say Hello! (1);Use common phrases;1;0;
 02usePronouns1;Learn Pronouns! (1);Use basic pronouns;0;0;
 03useToBe;Use to be!;Use the verb 'to be';0;0;
+04basicWords1;Learn basic words (1);Learn simple words;0;0;
+05sayHello2;Say Hello! (2);Learn common phrases;0;0;
+06useColors1;Use colors! (1);Learn basic colors;0;0;
+07useAdjectives1;Use adjectives! (1);Learn basic adjectives;0;0;
+08useKasvaa;Use kasvaa!;Learn a simple verb;0;0;
+09foodWords1;Use food words! (1);Learn food related words;0;0;

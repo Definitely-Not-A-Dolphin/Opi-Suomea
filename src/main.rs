@@ -173,12 +173,12 @@ fn do_lesson(path_name: &String) -> f32 {
 
 fn check_vocab(path_name: &String) {
   let vocab_vector = parse_to_vector(&path_name);
-  print!("English: Finnish\n");
+  print!("English: \x1b[31mFinnish\x1b[0m\n");
   for i in vocab_vector {
     if i[2].trim().to_string() == "Finnish" {
       let a = i[0].trim().to_string();
       let b = i[1].trim().to_string();
-      println!("{}: \t{}", a, b);
+      println!("{}: \x1b[31m{}\x1b[0m", a, b);
     };
   }
 }
