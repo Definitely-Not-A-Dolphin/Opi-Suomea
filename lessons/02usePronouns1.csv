@@ -1,7 +1,12 @@
-01sayHello1;Say Hello! (1);Use common phrases;1;7.5;
-02usePronouns1;Learn Pronouns! (1);Use basic pronouns;1;9.2;
-03useToBe;Use to be!;Use the verb 'to be';0;0;
-ou; Sinä; Finnish;
+Minä; I; English;
+Sinä; You; English;
+Hän; He / She; English;
+Se; It; English;
+Me; We; English;
+Te; You (pl); English;
+He; They; English;
+I; Minä; Finnish;
+You; Sinä; Finnish;
 He / She; Hän; Finnish;
 It; Se; Finnish;
 We; Me; Finnish;

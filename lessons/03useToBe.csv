@@ -1,9 +1,10 @@
-01sayHello1;Say Hello! (1);Use common phrases;1;7.5;
-02usePronouns1;Learn Pronouns! (1);Use basic pronouns;1;9.2;
-03useToBe;Use to be!;Use the verb 'to be';1;6.2;
-olette; You are; English;
+Minä olen; I am; English;
+Sinä olet; You are; English;
+Hän on; He / She is; English;
+Se on; It is; English;
+Me olemme; We are; English;
+Te olette; You are; English;
 He ovat; They are; English;
-To be; Ole; Finnish;
 I am; Minä olen; Finnish;
 You are; Sinä olet; Finnish;
 He / She is; Hän on; Finnish;
